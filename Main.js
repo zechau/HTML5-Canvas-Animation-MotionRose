@@ -37,7 +37,7 @@
 			center_y = 0;
 
 			font = 22 + "px "+"Cantarell";;
-			text_field_1 = new createjs.Text("Please start music by click on stage",font, "#515151");
+			text_field_1 = new createjs.Text("情人节快乐 -- 黄智超",font, "#515151");
 			text_field_1.textBaseline = "alphabetic";
 			text_field_1.regX = text_field_1.getMeasuredWidth()/2;
 			text_field_1.x = center_x;
